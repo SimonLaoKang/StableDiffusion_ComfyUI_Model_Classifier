@@ -23,7 +23,7 @@
 
 ![QQ202576-111414-H20250706114328271D](https://github.com/user-attachments/assets/614c7acb-7d67-4fb1-a39a-44553b22c187)
 
-## 使用方法
+## 使用方法(建议打包zip下载)
 
 1. 运行 `StableDiffusion_ComfyUI_Model_Classifier V1.0.py` 脚本
 2. 选择模型目录，点击“扫描模型”
