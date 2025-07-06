@@ -1,0 +1,5 @@
+PySide6
+pandas
+openpyxl
+watchdog
+pywin32 ; platform_system == "Windows"
